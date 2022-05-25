@@ -1,0 +1,10 @@
+D:\Exercicios logica\numero_do_mes\bin\Debug\numero_do_mes.exe.config
+D:\Exercicios logica\numero_do_mes\bin\Debug\numero_do_mes.exe
+D:\Exercicios logica\numero_do_mes\bin\Debug\numero_do_mes.pdb
+D:\Exercicios logica\numero_do_mes\obj\Debug\numero_do_mes.csproj.AssemblyReference.cache
+D:\Exercicios logica\numero_do_mes\obj\Debug\numero_do_mes.Form1.resources
+D:\Exercicios logica\numero_do_mes\obj\Debug\numero_do_mes.Properties.Resources.resources
+D:\Exercicios logica\numero_do_mes\obj\Debug\numero_do_mes.csproj.GenerateResource.cache
+D:\Exercicios logica\numero_do_mes\obj\Debug\numero_do_mes.csproj.CoreCompileInputs.cache
+D:\Exercicios logica\numero_do_mes\obj\Debug\numero_do_mes.exe
+D:\Exercicios logica\numero_do_mes\obj\Debug\numero_do_mes.pdb
